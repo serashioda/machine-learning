@@ -26,6 +26,9 @@ var/
 bin/
 include/
 pyvenv.cfg
+man/
+pip-selfcheck.json
+share/
 
 
 # PyInstaller
