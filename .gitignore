@@ -26,6 +26,11 @@ var/
 bin/
 include/
 pyvenv.cfg
+man/
+pip-selfcheck.json
+share/
+.ipynb_checkpoints/
+boston_housing_data.csv
 
 
 # PyInstaller
