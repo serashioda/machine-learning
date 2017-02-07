@@ -29,9 +29,10 @@ pyvenv.cfg
 man/
 pip-selfcheck.json
 share/
+.DS_Store
 .ipynb_checkpoints/
 boston_housing_data.csv
-Alternate_Polling_Place.csv
+Cityworks_Workorders.csv
 
 
 # PyInstaller
