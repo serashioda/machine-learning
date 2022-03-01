@@ -1,6 +1,6 @@
 # machine-learning
 
-###Author:
+### Author:
 Sera Smith
 
 ### Data Source: 
